@@ -1,0 +1,23 @@
+#launcher{
+    position: absolute;
+    z-index: 100;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100svh;
+    background-image: url('../public/supawit-oat-fin1.jpg');
+    background-size: cover;
+}
+.launcherContainer{
+    position: absolute;
+    top: 30vh;
+    left: 50vw;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    
+}
+.launcherContainer button{
+    border: 1px solid grey;
+    padding-block: 12px;
+}
