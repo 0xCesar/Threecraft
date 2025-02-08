@@ -34,13 +34,13 @@ V0.1 - Release
 - Launcher
 - Chunk Generation 
 - World Generation
-- Optimisation faces displaying
+- Optimisation des faces affichées
 
 V0.2 - Next release 
-- Launcher settings
-- Seed Gen 
-- Player's control 
-- Player Collision? 
+- Launcher options
+- Seed Génération
+- Intéraction de base avec le joueur 
+
 
 
 
