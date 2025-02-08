@@ -28,16 +28,23 @@ Ensuite, ouvrez votre navigateur et accédez à l'URL fournie (par défaut, `htt
 
 ## Fonctionnalités
 - Rendu 3D avec Three.js
-- Monde voxel inspiré de Minecraft
-- Mécanismes de base pour explorer et interagir avec l'environnement
+- Jeu inspiré de Minecraft
 
-## Contribution
-Les contributions sont les bienvenues ! Si vous souhaitez améliorer le projet :
-1. Forkez le dépôt
-2. Créez une branche pour votre fonctionnalité (`git checkout -b feature-nom`)
-3. Faites vos modifications et committez (`git commit -m "Ajout de ..."`)
-4. Poussez votre branche (`git push origin feature-nom`)
-5. Ouvrez une **Pull Request**
+V0.1 - Release
+- Launcher
+- Chunk Generation 
+- World Generation
+- Optimisation faces displaying
+
+V0.2 - Next release 
+- Launcher settings
+- Seed Gen 
+- Player's control 
+- Player Collision? 
+
+
+
+
 
 ## Licence
 Ce projet est sous licence **MIT** – vous êtes libre de l'utiliser, le modifier et le partager.
