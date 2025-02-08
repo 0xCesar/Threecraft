@@ -6,7 +6,7 @@
     width: 100vw;
     height: 100svh;
     background-image: url('../public/supawit-oat-fin1.jpg');
-    background-size: cover;
+        background-size: cover;
 }
 .launcherContainer{
     position: absolute;
@@ -20,4 +20,6 @@
 .launcherContainer button{
     border: 1px solid grey;
     padding-block: 12px;
+    width: 80%;
+    margin-inline: auto;
 }
